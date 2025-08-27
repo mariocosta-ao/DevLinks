@@ -36,6 +36,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-
 Feito com ♥ by Mário Costa 👋
 
